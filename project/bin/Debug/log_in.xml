@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table>
+  <admin>
+    <Id>admin</Id>
+    <Name>admin</Name>
+  </admin>
+  <officer>
+    <id>e_12</id>
+    <name>mohamed</name>
+    <no>1</no>
+    <rate>5</rate>
+  </officer>
+  <officer>
+    <id>799300</id>
+    <name>hassan</name>
+    <no>0</no>
+    <rate>0</rate>
+  </officer>
+  <customer>
+    <Id>416776</Id>
+    <Name>wqew</Name>
+    <Address>sadas</Address>
+    <phone>sad</phone>
+    <username>123</username>
+    <password>123</password>
+    <favouritelist>
+    </favouritelist>
+  </customer>
+</table>

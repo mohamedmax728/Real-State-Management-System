@@ -1,0 +1,16 @@
+String id = ch[2].InnerText;
+                            XmlDocument dc = new XmlDocument();
+                            dc.Load("log_in.xml");
+                            XmlNodeList li = dc.GetElementsByTagName("officer");
+                            for(int j=0;j<li.Count;j++)
+                            {
+                                XmlNodeList h = li[j].ChildNodes;
+                                if(h[0].InnerText==id)
+                                {
+                                    int no = Int32.Parse(h[2].InnerText);
+                                    no--;
+                                    h[2].InnerText = no.ToString() ;
+                                    dc.Save("log_in.xml");
+                                    break;
+                                }
+                            }

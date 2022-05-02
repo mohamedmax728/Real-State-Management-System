@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table>
+  <flat>
+    <f_id>381313</f_id>
+    <c_id>gs</c_id>
+    <e_id>e_12</e_id>
+    <flat_description>sdas</flat_description>
+    <flat_price>2132</flat_price>
+    <flat_location>sad</flat_location>
+    <flat_status>rental</flat_status>
+    <confirmation>true</confirmation>
+    <reviewlist>
+      <review>this information is not correct!!!!!!!</review>
+    </reviewlist>
+  </flat>
+</table>

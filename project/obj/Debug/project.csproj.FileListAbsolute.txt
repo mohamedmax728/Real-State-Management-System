@@ -1,0 +1,99 @@
+F:\project\project\bin\Debug\project.exe.config
+F:\project\project\bin\Debug\project.exe
+F:\project\project\bin\Debug\project.pdb
+F:\project\project\obj\Debug\project.csprojAssemblyReference.cache
+F:\project\project\obj\Debug\project.Properties.Resources.resources
+F:\project\project\obj\Debug\project.csproj.GenerateResource.cache
+F:\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+F:\project\project\obj\Debug\project.exe
+F:\project\project\obj\Debug\project.pdb
+F:\project\project\obj\Debug\project.regster.resources
+F:\project\project\obj\Debug\project.Login.resources
+F:\project\project\obj\Debug\project.customer_login.resources
+F:\project\project\obj\Debug\project.login_main.resources
+F:\project\project\obj\Debug\project.customer_work.resources
+F:\project\project\obj\Debug\project.Employees.resources
+E:\project\project\bin\Debug\project.exe.config
+E:\project\project\bin\Debug\project.exe
+E:\project\project\bin\Debug\project.pdb
+E:\project\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\project\project\obj\Debug\project.Properties.Resources.resources
+E:\project\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\project\project\obj\Debug\project.exe
+E:\project\project\obj\Debug\project.pdb
+E:\project\project\obj\Debug\Flats.customer_login.resources
+E:\project\project\obj\Debug\Flats.customer_work.resources
+E:\project\project\obj\Debug\Flats.add.resources
+E:\project\project\obj\Debug\Flats.Login.resources
+E:\project\project\obj\Debug\Flats.login_main.resources
+E:\project\project\obj\Debug\Flats.Employees.resources
+E:\project\project\obj\Debug\Flats.regster.resources
+E:\project\project\obj\Debug\project.work_of_employee.resources
+E:\project\project\obj\Debug\project.view_all_assigned_flats.resources
+E:\project\project\obj\Debug\project.update_information_of_flat.resources
+E:\project\project\obj\Debug\project.update.resources
+E:\project by golden boy\project\bin\Debug\project.exe.config
+E:\project by golden boy\project\bin\Debug\project.exe
+E:\project by golden boy\project\bin\Debug\project.pdb
+E:\project by golden boy\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\project by golden boy\project\obj\Debug\Flats.customer_login.resources
+E:\project by golden boy\project\obj\Debug\Flats.customer_work.resources
+E:\project by golden boy\project\obj\Debug\Flats.add.resources
+E:\project by golden boy\project\obj\Debug\project.work_of_employee.resources
+E:\project by golden boy\project\obj\Debug\Flats.Login.resources
+E:\project by golden boy\project\obj\Debug\Flats.login_main.resources
+E:\project by golden boy\project\obj\Debug\project.Properties.Resources.resources
+E:\project by golden boy\project\obj\Debug\Flats.Employees.resources
+E:\project by golden boy\project\obj\Debug\Flats.regster.resources
+E:\project by golden boy\project\obj\Debug\project.update_information_of_flat.resources
+E:\project by golden boy\project\obj\Debug\project.update.resources
+E:\project by golden boy\project\obj\Debug\project.view_all_assigned_flats.resources
+E:\project by golden boy\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\project by golden boy\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\project by golden boy\project\obj\Debug\project.exe
+E:\project by golden boy\project\obj\Debug\project.pdb
+E:\project by golden boy\project\obj\Debug\project.assigned_flats_to_employee.resources
+E:\project by golden boy\project\obj\Debug\project.work_of_admin.resources
+E:\project by golden boy\project\obj\Debug\project.add_new_advertise_by_admin.resources
+E:\project by golden boy\project\obj\Debug\project.add_employee.resources
+E:\project by golden boy\project\obj\Debug\project.delete_employee.resources
+E:\project by golden boy\project\obj\Debug\project.delete_or_update_flat.resources
+E:\project by golden boy\project\obj\Debug\project.delete_customer.resources
+E:\project by golden boy\project\obj\Debug\project.update_information_of_customer_by_admin.resources
+E:\project by golden boy\project\obj\Debug\project.view_company_s_commission.resources
+E:\project by golden boy\project\obj\Debug\project.update_information_of_employee.resources
+E:\project by golden boy\project\obj\Debug\project.update_information_of_flat_by_admin.resources
+E:\project by golden boy\project\obj\Debug\project.assign_anothar_employee.resources
+F:\project by golden boy\project\bin\Debug\project.exe.config
+F:\project by golden boy\project\bin\Debug\project.exe
+F:\project by golden boy\project\bin\Debug\project.pdb
+F:\project by golden boy\project\obj\Debug\project.csprojAssemblyReference.cache
+F:\project by golden boy\project\obj\Debug\project.add_employee.resources
+F:\project by golden boy\project\obj\Debug\project.add_new_advertise_by_admin.resources
+F:\project by golden boy\project\obj\Debug\project.assign_anothar_employee.resources
+F:\project by golden boy\project\obj\Debug\project.assigned_flats_to_employee.resources
+F:\project by golden boy\project\obj\Debug\Flats.customer_login.resources
+F:\project by golden boy\project\obj\Debug\Flats.customer_work.resources
+F:\project by golden boy\project\obj\Debug\project.delete_customer.resources
+F:\project by golden boy\project\obj\Debug\project.delete_employee.resources
+F:\project by golden boy\project\obj\Debug\project.delete_or_update_flat.resources
+F:\project by golden boy\project\obj\Debug\Flats.add.resources
+F:\project by golden boy\project\obj\Debug\project.work_of_employee.resources
+F:\project by golden boy\project\obj\Debug\Flats.Login.resources
+F:\project by golden boy\project\obj\Debug\Flats.login_main.resources
+F:\project by golden boy\project\obj\Debug\project.Properties.Resources.resources
+F:\project by golden boy\project\obj\Debug\Flats.Employees.resources
+F:\project by golden boy\project\obj\Debug\Flats.regster.resources
+F:\project by golden boy\project\obj\Debug\project.update_information_of_customer_by_admin.resources
+F:\project by golden boy\project\obj\Debug\project.update_information_of_employee.resources
+F:\project by golden boy\project\obj\Debug\project.update_information_of_flat_by_admin.resources
+F:\project by golden boy\project\obj\Debug\project.update_information_of_flat.resources
+F:\project by golden boy\project\obj\Debug\project.update.resources
+F:\project by golden boy\project\obj\Debug\project.view_all_assigned_flats.resources
+F:\project by golden boy\project\obj\Debug\project.view_company_s_commission.resources
+F:\project by golden boy\project\obj\Debug\project.work_of_admin.resources
+F:\project by golden boy\project\obj\Debug\project.csproj.GenerateResource.cache
+F:\project by golden boy\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+F:\project by golden boy\project\obj\Debug\project.exe
+F:\project by golden boy\project\obj\Debug\project.pdb

@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{31F7D7D5-03AE-4BCB-8DD3-459B50CF2B30}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>project</RootNamespace>
+    <AssemblyName>project</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="add employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add employee.Designer.cs">
+      <DependentUpon>add employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add new advertise by admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add new advertise by admin.Designer.cs">
+      <DependentUpon>add new advertise by admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="assign anothar employee .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="assign anothar employee .Designer.cs">
+      <DependentUpon>assign anothar employee .cs</DependentUpon>
+    </Compile>
+    <Compile Include="assigned flats to employee .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="assigned flats to employee .Designer.cs">
+      <DependentUpon>assigned flats to employee .cs</DependentUpon>
+    </Compile>
+    <Compile Include="customer_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer_login.Designer.cs">
+      <DependentUpon>customer_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customer_work.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customer_work.Designer.cs">
+      <DependentUpon>customer_work.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete customer.Designer.cs">
+      <DependentUpon>delete customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete employee.Designer.cs">
+      <DependentUpon>delete employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete or update flat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="delete or update flat.Designer.cs">
+      <DependentUpon>delete or update flat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="project.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login_main.Designer.cs">
+      <DependentUpon>login_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee.Designer.cs">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="regster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="regster.Designer.cs">
+      <DependentUpon>regster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update information of customer by admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update information of customer by admin.Designer.cs">
+      <DependentUpon>update information of customer by admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update information of employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update information of employee.Designer.cs">
+      <DependentUpon>update information of employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update information of flat by admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update information of flat by admin.Designer.cs">
+      <DependentUpon>update information of flat by admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update information of flat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update information of flat.Designer.cs">
+      <DependentUpon>update information of flat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update.Designer.cs">
+      <DependentUpon>update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view all assigned flats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view all assigned flats.Designer.cs">
+      <DependentUpon>view all assigned flats.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view company’s commission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view company’s commission.Designer.cs">
+      <DependentUpon>view company’s commission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="work_of_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="work_of_admin.Designer.cs">
+      <DependentUpon>work_of_admin.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="add employee.resx">
+      <DependentUpon>add employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add new advertise by admin.resx">
+      <DependentUpon>add new advertise by admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="assign anothar employee .resx">
+      <DependentUpon>assign anothar employee .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="assigned flats to employee .resx">
+      <DependentUpon>assigned flats to employee .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer_login.resx">
+      <DependentUpon>customer_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customer_work.resx">
+      <DependentUpon>customer_work.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete customer.resx">
+      <DependentUpon>delete customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete employee.resx">
+      <DependentUpon>delete employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="delete or update flat.resx">
+      <DependentUpon>delete or update flat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login_main.resx">
+      <DependentUpon>login_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Employee.resx">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="regster.resx">
+      <DependentUpon>regster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update information of customer by admin.resx">
+      <DependentUpon>update information of customer by admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update information of employee.resx">
+      <DependentUpon>update information of employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update information of flat by admin.resx">
+      <DependentUpon>update information of flat by admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update information of flat.resx">
+      <DependentUpon>update information of flat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update.resx">
+      <DependentUpon>update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view all assigned flats.resx">
+      <DependentUpon>view all assigned flats.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view company’s commission.resx">
+      <DependentUpon>view company’s commission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="work_of_admin.resx">
+      <DependentUpon>work_of_admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
